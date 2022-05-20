@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.be.assessment.GameInputProcessorTest" time="0.054" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.be.assessment.GameInputProcessorTest" time="0.063" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="18"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.1.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\henry\AppData\Local\Temp\surefire4186232281549131632\surefirebooter13764411065842000022.jar C:\Users\henry\AppData\Local\Temp\surefire4186232281549131632 2022-05-20T14-22-37_411-jvmRun1 surefire1613704680653825219tmp surefire_014221082175806017759tmp"/>
+    <property name="sun.java.command" value="C:\Users\henry\AppData\Local\Temp\surefire17865278821470982565\surefirebooter3372761251564712422.jar C:\Users\henry\AppData\Local\Temp\surefire17865278821470982565 2022-05-20T14-42-28_361-jvmRun1 surefire3801110786060110799tmp surefire_08885261207801499213tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Eclipse\BECodingTestHenryChampion\target\test-classes;D:\Eclipse\BECodingTestHenryChampion\target\classes;C:\Users\henry\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.2\junit-jupiter-api-5.7.2.jar;C:\Users\henry\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\henry\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\henry\.m2\repository\org\junit\platform\junit-platform-commons\1.7.2\junit-platform-commons-1.7.2.jar;C:\Users\henry\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.2\junit-jupiter-engine-5.7.2.jar;C:\Users\henry\.m2\repository\org\junit\platform\junit-platform-engine\1.7.2\junit-platform-engine-1.7.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\henry\AppData\Local\Temp\surefire4186232281549131632\surefirebooter13764411065842000022.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\henry\AppData\Local\Temp\surefire17865278821470982565\surefirebooter3372761251564712422.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="18.0.1.1+2-6"/>
@@ -56,7 +56,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="62.0"/>
   </properties>
-  <testcase name="testCase1" classname="com.be.assessment.GameInputProcessorTest" time="0.039"/>
-  <testcase name="testCase2" classname="com.be.assessment.GameInputProcessorTest" time="0.002"/>
-  <testcase name="testCase3" classname="com.be.assessment.GameInputProcessorTest" time="0.002"/>
+  <testcase name="testCase1" classname="com.be.assessment.GameInputProcessorTest" time="0.044"/>
+  <testcase name="testCase2" classname="com.be.assessment.GameInputProcessorTest" time="0.005"/>
+  <testcase name="testCase3" classname="com.be.assessment.GameInputProcessorTest" time="0.003"/>
 </testsuite>

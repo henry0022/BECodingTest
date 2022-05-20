@@ -92,9 +92,6 @@ public class Main {
 				System.out.println("Test 2 Actual Output:");
 				System.out.println("------------------------------------------------");
 				actualOutput = gip.GetOutputFromInputFile("test2Input.txt");
-				for(String output: actualOutput) {
-					System.out.println(output);
-				}
 				boolean t2Result = true;
 				 count = 0;
 				for(String output: actualOutput) {
@@ -127,9 +124,6 @@ public class Main {
 				System.out.println("Test 3 Actual Output:");
 				System.out.println("------------------------------------------------");
 				actualOutput = gip.GetOutputFromInputFile("test3Input.txt");
-				for(String output: actualOutput) {
-					System.out.println(output);
-				}
 				boolean t3Result = true;
 				 count = 0;
 				for(String output: actualOutput) {
